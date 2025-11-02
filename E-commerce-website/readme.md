@@ -68,9 +68,9 @@ https://github.com/KeerthanaAnandhan/trendora-ecommerce-website.git
 ## 🧪 Demo (Optional)
 
 After deployment, add demo link here:
-https://gregarious-tiramisu-b719d0.netlify.app/
+
 ```
-🔗 Live Demo: 
+🔗 Live Demo: https://gregarious-tiramisu-b719d0.netlify.app/
 ```
 
 ## 🛠️ Future Enhancements
@@ -106,4 +106,5 @@ If you like this project, support by ⭐ starring the repo!
 ```
 ⭐ Star this repo if you found it helpful!
 ```
+
 
